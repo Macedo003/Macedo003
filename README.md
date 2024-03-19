@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000cd&height=120&section=header"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macedo003&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macedo003&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
